@@ -34,14 +34,14 @@ h5 {color: grey; font-family: 'Jacques Francois', serif;; text-align: center; }
 .fotos1 {display: flex; flex-wrap:wrap;justify-content: space-around;}
 #masv { background-color: rgb(77, 82, 82); text-align: justify; padding: 1.5%;}
 ul{ background-color: pink; text-align: center;}
-
-
+#perfilh {color: aliceblue;}
 #carouselExampleSlidesOnly { width: 800px; padding: 100px; margin: 50px; background-color: beige;}
-
+#Contraseña {color: azure;}
+#perfilb {background-image: url(descarga.jpg); padding: 0px; margin: 100px;}
 
 #ingreso {color: black; background-color: pink; border-radius: 30px; font-size: 20px; }
-
-#floatingInput {background-color: beige; border-radius: 50px; padding: 10px; font-family: 'Times New Roman', Times, serif;}
+#blanco{color: aliceblue;}
+#floatingInput { border-radius: 50px; padding: 10px; font-family: 'Times New Roman', Times, serif; background-color: beige;}
 #floatingPassword {background-color: beige; border-radius: 50px; padding: 10px;font-family: 'Times New Roman', Times, serif}
 
 /* configuracion diseño reponsive */
